@@ -16,7 +16,7 @@ Runs a hot-reloading webpack dev server. It can be accessed through [http://loca
 
 ### `npm run build`
 
-Exports the a production ready version of the project into ./dist.
+Exports  a production ready version of the project into ./dist.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
